@@ -1,5 +1,4 @@
-# mf_pc
-
+# Calculate income
 A small project where you can calculate your income!
 Namely: calculate the budget for 1 day, calculate the required expenses, 
 possible expenses or find out the accumulation for a month / year.
